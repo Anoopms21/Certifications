@@ -156,9 +156,7 @@ Mechanical Engineer passionate about:
 ---
 
 # Contact
-- LinkedIn: [Your LinkedIn]
-- Portfolio: [Your Portfolio]
-- Email: [Your Email]
-
+- LinkedIn: www.linkedin.com/in/anoopsubramanya
+- Portfolio: https://anoopsubramanya.framer.website/
 ---
 *"Continuous learning and practical engineering experience drive innovation."*
