@@ -1,14 +1,15 @@
-# Certifications & Technical Training 
+# Technical Certifications & Internship Training 
 
 ## Overview
-This repository contains professional certifications and technical training programs completed during my academic and engineering journey.
+This repository contains certifications, internship training programs, and technical workshops completed during my academic journey in Mechanical & Aeronautical Engineering.
 
-These certifications reflect my interests and practical exposure in:
+These certifications strengthened my skills in:
+- Aerospace Engineering
 - CAD & Mechanical Design
-- Manufacturing Processes
-- Welding & Fabrication
+- Programming
+- Manufacturing & Fabrication
 - Engineering Software
-- Industrial Skills Development
+- Industrial Training
 
 ---
 
@@ -20,48 +21,78 @@ These certifications reflect my interests and practical exposure in:
 - Dassault Systèmes
 - SOLIDWORKS
 
-### Certification Details
-- Certified as a **SOLIDWORKS Design Associate**
-- Successfully demonstrated proficiency in:
-  - 3D CAD Modeling
-  - Part Design
-  - Assemblies
-  - Engineering Drawings
-  - Mechanical Design Fundamentals
-
 ### Skills Validated
-- SolidWorks CAD Modeling
+- 3D CAD Modeling
+- Mechanical Assemblies
+- Engineering Drawings
 - Parametric Design
-- Assembly Modeling
-- Engineering Visualization
-- Mechanical Component Design
+- Mechanical Design Fundamentals
 
 ### Certification Date
 - November 5, 2025
 
 ---
 
-# 2. TIG & MIG Welding Workshop
+# 2. Foundation & Practical Aspect of Aero Engine Design
+
+### Conducted By
+- Dheya Engineering & Technology Pvt Ltd, Bengaluru
+
+### Training Details
+- 30 Hour Internship & Training Program
+- Focused on:
+  - Aero Engine Fundamentals
+  - Aircraft Propulsion Concepts
+  - Engine Components
+  - Practical Aspects of Aero Engine Systems
+
+### Key Learning Outcomes
+- Aerospace propulsion fundamentals
+- Gas turbine engine basics
+- Engine system understanding
+- Aircraft engine working principles
+
+---
+
+# 3. Fundamentals of Python Programming
+
+### Issued By
+- AI Edge Innovations Pvt Ltd
+
+### Program Details
+- Completed internship & training program on:
+  - Python Fundamentals
+  - Basic Programming Logic
+  - Assignments & Project Work
+
+### Skills Developed
+- Python Programming
+- Problem Solving
+- Programming Fundamentals
+- Basic Automation Logic
+
+### Achievement
+Received the **Best Award** during the training program
+
+---
+
+# 4. TIG & MIG Welding Workshop
 
 ### Conducted By
 - Ascent Technology
-- Peenya Industrial Area, Bengaluru
+- Bengaluru
 
-### Workshop Focus
-Completed practical and theoretical training in:
-- TIG (Tungsten Inert Gas) Welding
-- MIG (Metal Inert Gas) Welding
-- Welding Safety Practices
-- Metal Fabrication Applications
+### Workshop Topics
+- TIG Welding
+- MIG Welding
+- Welding Safety
+- Metal Fabrication Practices
 
-### Key Learning Outcomes
-- Hands-on welding process exposure
-- Welding safety and industrial practices
-- Fabrication workflow understanding
-- Manufacturing process awareness
-
-### Workshop Date
-- December 26, 2024
+### Skills Gained
+- Practical welding exposure
+- Manufacturing awareness
+- Fabrication techniques
+- Industrial safety practices
 
 ---
 
@@ -69,57 +100,65 @@ Completed practical and theoretical training in:
 
 ## CAD & Design
 - SolidWorks
+- Mechanical Design
 - 3D Modeling
-- Mechanical Assemblies
 - Engineering Drawings
 
-## Manufacturing & Fabrication
+## Aerospace
+- Aero Engine Fundamentals
+- Aircraft Propulsion
+- Turbine Engine Concepts
+
+## Programming
+- Python Fundamentals
+- Logic Building
+- Basic Automation
+
+## Manufacturing
 - TIG Welding
 - MIG Welding
-- Metal Fabrication
+- Fabrication Processes
 - Manufacturing Safety
-
-## Engineering Skills
-- Mechanical Design
-- Problem Solving
-- Industrial Practices
-- Hands-on Engineering
 
 ---
 
 # Why These Certifications Matter
-These certifications strengthened both my:
-- Design engineering capabilities
-- Manufacturing and fabrication understanding
+These programs helped build a strong multidisciplinary engineering foundation by combining:
+- Design Engineering
+- Aerospace Fundamentals
+- Manufacturing Skills
+- Programming Knowledge
+- Practical Industrial Exposure
 
-Combining CAD design knowledge with manufacturing exposure helps bridge the gap between:
-- Design
-- Analysis
-- Fabrication
-- Real-world engineering implementation
+The combination of analytical, software, and hands-on skills supports my interests in:
+- Mechanical Design
+- CFD & FEA
+- Aerospace Engineering
+- Automotive & Motorsport Engineering
 
 ---
 
 # Repository Contents
 This repository includes:
 - Certification Images
-- Workshop Certificates
+- Technical Workshop Certificates
 
 ---
 
 # About Me
-Mechanical Engineer focused on:
-- Mechanical Design
-- CFD & FEA
+Mechanical Engineer passionate about:
 - Aerodynamics
-- Product Development
+- CFD & Thermal Analysis
+- Mechanical Design
+- Aerospace Systems
 - High Performance Engineering
 
 ---
 
 # Contact
-- LinkedIn: www.linkedin.com/in/anoopsubramanya
-- Portfolio: https://anoopsubramanya.framer.website/
+- LinkedIn: [Your LinkedIn]
+- Portfolio: [Your Portfolio]
+- Email: [Your Email]
 
 ---
-*"Continuous learning and hands-on engineering are key to building better designs."*
+*"Continuous learning and practical engineering experience drive innovation."*
